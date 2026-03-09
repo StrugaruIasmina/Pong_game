@@ -26,6 +26,12 @@ This project was created to practice **Python, Pygame, event handling, and colli
 ```bash
 pip install -r requirements.txt
 ```
+## Run the game
+
+```bash
+python main.py
+```
+
 ## What I Learned
 
 - **Event Handling**: Handling user input with `pygame.event.get()` and responding to key presses.
